@@ -1,0 +1,44 @@
+h1
+{
+    margin-bottom:0px;
+    color:rgb(80, 62, 240)
+}
+table,tr,td
+{
+    border:1px solid black;
+}
+table
+{
+    border-collapse:collapse;
+    padding:20px;
+}
+
+td{
+    padding:16px;
+}
+button
+{
+margin-top:100px;
+ background-color:gainsboro;
+ color: rgb(5, 33, 49);
+ border: 1px solid black;
+ padding: 20px;
+ width: 150px;
+ font-family:serif;
+ font-size:20px;
+ font-weight:bold;
+ border-radius:12px;
+}
+.Welcome
+{
+    font-family:bold;
+    font-size:16px;
+    font-weight:bold;
+    font-variant-caps:titling-caps;
+    white-space:pre-line;
+    color:black;
+}
+body{
+    margin-top:70px;
+    background-color:white;
+}
