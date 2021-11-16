@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Time-and-BG-Changer/static/css/main.005f7adb.chunk.css",
+    "main.js": "/Time-and-BG-Changer/static/js/main.adedb338.chunk.js",
+    "main.js.map": "/Time-and-BG-Changer/static/js/main.adedb338.chunk.js.map",
+    "runtime-main.js": "/Time-and-BG-Changer/static/js/runtime-main.2686be5d.js",
+    "runtime-main.js.map": "/Time-and-BG-Changer/static/js/runtime-main.2686be5d.js.map",
+    "static/js/2.24637379.chunk.js": "/Time-and-BG-Changer/static/js/2.24637379.chunk.js",
+    "static/js/2.24637379.chunk.js.map": "/Time-and-BG-Changer/static/js/2.24637379.chunk.js.map",
+    "index.html": "/Time-and-BG-Changer/index.html",
+    "precache-manifest.5f925800a571f7316c862bb1de657382.js": "/Time-and-BG-Changer/precache-manifest.5f925800a571f7316c862bb1de657382.js",
+    "service-worker.js": "/Time-and-BG-Changer/service-worker.js",
+    "static/css/main.005f7adb.chunk.css.map": "/Time-and-BG-Changer/static/css/main.005f7adb.chunk.css.map",
+    "static/js/2.24637379.chunk.js.LICENSE.txt": "/Time-and-BG-Changer/static/js/2.24637379.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2686be5d.js",
+    "static/js/2.24637379.chunk.js",
+    "static/css/main.005f7adb.chunk.css",
+    "static/js/main.adedb338.chunk.js"
+  ]
+}
